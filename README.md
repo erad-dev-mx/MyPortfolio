@@ -1,6 +1,8 @@
 # MyPortfolio
 
-Welcome to my portfolio! This is a showcase of my projects, skills and experiences.
+Welcome to my portfolio!
+
+This is a showcase of my projects, skills and experiences.
 
 ## :eyes: Contact
 
